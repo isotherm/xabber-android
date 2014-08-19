@@ -108,13 +108,16 @@
 
     <string name="interface_smiles_key">interface_smiles</string>
     <string name="interface_smiles_android_value">android</string>
+    <string name="interface_smiles_skype_value">skype</string>
     <string name="interface_smiles_none_value">none</string>
     <string-array name="interface_smiles_entries">
         <item>@string/interface_smiles_android</item>
+        <item>@string/interface_smiles_skype</item>
         <item>@string/interface_smiles_none</item>
     </string-array>
     <string-array name="interface_smiles_entryvalues">
         <item>@string/interface_smiles_android_value</item>
+        <item>@string/interface_smiles_skype_value</item>
         <item>@string/interface_smiles_none_value</item>
     </string-array>
     <string name="interface_smiles_default">@string/interface_smiles_android_value</string>

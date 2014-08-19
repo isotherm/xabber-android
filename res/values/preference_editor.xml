@@ -53,6 +53,8 @@
     <!-- http://dl.dropbox.com/u/1029995/com.xabber.android/preference_editor_appearance_smiles.png -->
     <string name="interface_smiles_android">Android emoticons</string>
     <!-- http://dl.dropbox.com/u/1029995/com.xabber.android/preference_editor_appearance_smiles.png -->
+    <string name="interface_smiles_skype">Skype emoticons</string>
+    <!-- http://dl.dropbox.com/u/1029995/com.xabber.android/preference_editor_appearance_smiles.png -->
     <string name="interface_smiles_none">No graphical emoticons</string>
     <!-- http://dl.dropbox.com/u/1029995/com.xabber.android/preference_editor_01.png -->
     <string name="preference_connection">Connection settings\nConnection settings</string>

@@ -626,6 +626,10 @@ public class SettingsManager implements OnInitializedListener,
 				.getString(R.string.interface_smiles_android_value)
 				.equals(value))
 			return Collections.unmodifiableMap(Emoticons.ANDROID_EMOTICONS);
+		else if (Application.getInstance()
+				.getString(R.string.interface_smiles_skype_value)
+				.equals(value))
+			return Collections.unmodifiableMap(Emoticons.SKYPE_EMOTICONS);
 		else
 			throw new IllegalStateException();
 	}
